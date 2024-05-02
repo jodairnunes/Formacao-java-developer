@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\jodai\OneDrive\Documents\CursoJavaDIO\Formacao-java-developer\Java-Basico\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+663918466.index
+2890538056.index

@@ -27,31 +27,10 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-### Exemplo de Diagrama UML (Mermaid)
-```mermaid
-classDiagram
-    class ReprodutorMusical {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
+### Diagrama UML
 
-    class AparelhoTelefonico {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
+![Classe UML](https://github.com/jodairnunes/Formacao-java-developer/assets/127688761/cf50926c-071c-4b5c-aea4-9dc58ace3312)
 
-    class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class iPhone {
-    }
-
-    iPhone --> ReprodutorMusical
-    iPhone --> AparelhoTelefonico
-    iPhone --> NavegadorInternet
-```
 
 ### Instruções
 1. Assista ao vídeo do lançamento do iPhone para entender as funcionalidades principais.
